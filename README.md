@@ -23,7 +23,7 @@ Donate to a college student who has no job and leeches off his parents.
       3. The e-ISBN is located in the URL of the webpage
           > Example: ht&#8203;tps://ereader.chegg.com/#/books/ ***e-ISBN*** /cfi/0!/4/2@100:0.00
           
-5. A preview screenshot of the book should pop-up. If you see the cover page of the selected book, then continue by enter the character 'Y'. If not, check the e-ISBN again and make sure that you manually set it to the first page as Chegg remembers where you last left off.
+5. A preview screenshot of the book should pop-up. If you see the cover page of the selected book, then continue by entering the character 'Y'. If not, check the e-ISBN again and make sure that you manually set it to the first page as Chegg remembers where you last left off.
 
 6. Set the screenshot delay, in milliseconds (Recommended: '3000').
 
@@ -40,3 +40,7 @@ Donate to a college student who has no job and leeches off his parents.
 
 # Bugs / Issues
 * Program sometimes does not close out the process completely, which eats up the memory. If this happens, end the process with task manager.
+* "I'm getting this error:"
+     > Unhandled Exception: System.IO.FileNotFoundException: Could not load file or assembly 'CefSharp.Core.dll' or one of its dependencies. The specified module could not be found. at Chegg.Ebook.Autoprinter.Program.Main(String[] args)
+     
+     i. [VC++ 2012/2013 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=40784) is required in order to run CefSharp on non developer machines. Forgot to include the .dlls that are required; will do that next version.

@@ -1,0 +1,14 @@
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\Chegg E-book to PDF.exe.config
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\Chegg E-book to PDF.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\Chegg E-book to PDF.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.OffScreen.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.OffScreen.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.OffScreen.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.Core.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\obj\x64\Debug\Chegg E-book to PDF.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\obj\x64\Debug\Chegg E-book to PDF.pdb

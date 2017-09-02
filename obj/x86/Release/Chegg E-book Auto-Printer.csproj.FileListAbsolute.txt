@@ -1,0 +1,15 @@
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\Chegg E-book Auto-Printer.exe.config
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\Chegg E-book Auto-Printer.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\Chegg E-book Auto-Printer.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.Core.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.OffScreen.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.OffScreen.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.OffScreen.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.Core.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\bin\x86\Release\CefSharp.Core.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\obj\x86\Release\Chegg E-book Auto-Printer.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\obj\x86\Release\Chegg E-book Auto-Printer.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book Auto-Printer\obj\x86\Release\Chegg E-book Auto-Printer.pdb

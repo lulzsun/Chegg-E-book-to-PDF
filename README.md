@@ -6,7 +6,7 @@ This program was created by Jimmy Quach (lulzsun), designed to simply download a
 # Donation
 Donate to a college student who has no job and leeches off his parents.
 
-[![Paypal](http://i.imgur.com/k53FXKP.gif)](paypal.me/jminquach)
+[![Paypal](http://i.imgur.com/k53FXKP.gif)](https://www.paypal.me/jminquach)
 
 # How to Use (For dummies)
 1. Download

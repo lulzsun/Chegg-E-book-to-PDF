@@ -10,8 +10,8 @@ Donate to a college student who has no job and leeches off his parents.
 
 # How to Use (For dummies)
 1. Download
-      * [Chegg E-book to PDF V1.0.0 for Windows 64-bit](https://mega.nz/#!UFBVFTbR!bEJvxqprOqc1i33ra9YRkDP01cCzvcAiOai2hdYClew)
-      * [Chegg E-book to PDF V1.0.0 for Windows 32-bit](https://mega.nz/#!dE4hERrA!lmboUR538eI-aJsOPQGmOoO6bzB892XyolWXhDqAYrA)
+      * [Chegg E-book to PDF V1.0.0 for Windows 32-bit](https://mega.nz/#!UFBVFTbR!bEJvxqprOqc1i33ra9YRkDP01cCzvcAiOai2hdYClew)
+      * [Chegg E-book to PDF V1.0.0 for Windows 64-bit](https://mega.nz/#!dE4hERrA!lmboUR538eI-aJsOPQGmOoO6bzB892XyolWXhDqAYrA)
       
 2. Open up Chegg E-book to PDF.exe
 

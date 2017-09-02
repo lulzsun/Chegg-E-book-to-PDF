@@ -31,7 +31,7 @@ Donate to a college student who has no job and leeches off his parents.
       1. Goto https://ereader.chegg.com/
       2. Click on the book that you want
       3. Scroll all the way to the last page of the book
-      4. The e-ISBN is located in the URL of the webpage
+      4. The last page number is located in the URL of the webpage
           > Example: ht&#8203;tps://ereader.chegg.com/#/books/123456789/cfi/ ***Last page of the book*** !/4/2@100:0.00
           
 8. Wait for all the pages to be printed and built into a PDF.

@@ -4,7 +4,9 @@ This program was created by Jimmy Quach (lulzsun), designed to simply download a
 [![Console Application Screenshot](http://i.imgur.com/IoUZt6K.png)](http://i.imgur.com/IoUZt6K.png)
 
 # Donation
-Donate to a college student who leeches off his parents: [Paypal](paypal.me/jminquach)
+Donate to a college student who leeches off his parents.
+
+[![Paypal](http://i.imgur.com/k53FXKP.gif)](paypal.me/jminquach)
 
 # How to Use (For dummies)
 1. Download

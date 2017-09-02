@@ -1,5 +1,5 @@
 # Chegg E-book to PDF
-This program was created by Jimmy Quach (lulzsun), designed to simply download an e-book off of chegg and convert it into a PDF.
+This program was created by Jimmy Quach (lulzsun), designed to simply download an e-book off of Chegg and convert it into a PDF.
 
 [![Console Application Screenshot](http://i.imgur.com/IoUZt6K.png)](http://i.imgur.com/IoUZt6K.png)
 

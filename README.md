@@ -9,6 +9,21 @@ Donate to a college student who has no job and leeches off his parents.
 [![Paypal](http://i.imgur.com/k53FXKP.gif)](https://www.paypal.me/jminquach)
 
 # How to Use (For dummies)
+0. Find your e-ISBN...
+      1. Goto https://ereader.chegg.com/
+      2. Click on the book that you want
+      3. The e-ISBN is located in the URL of the webpage
+          > Example: ht&#8203;tps://ereader.chegg.com/#/books/ ***e-ISBN*** /cfi/0!/4/2@100:0.00
+      4. Write it down somewhere for later.
+      
+      Find the last page of the book...
+      1. Goto https://ereader.chegg.com/
+      2. Click on the book that you want
+      3. Scroll all the way to the last page of the book
+      4. The last page number is located in the URL of the webpage
+          > Example: ht&#8203;tps://ereader.chegg.com/#/books/123456789/cfi/ ***Last page of the book*** !/4/2@100:0.00
+      5. Write it down somewhere for later.
+          
 1. Download
       * [Chegg E-book to PDF V1.0.0 for Windows 32-bit](https://mega.nz/#!UFBVFTbR!bEJvxqprOqc1i33ra9YRkDP01cCzvcAiOai2hdYClew)
       * [Chegg E-book to PDF V1.0.0 for Windows 64-bit](https://mega.nz/#!dE4hERrA!lmboUR538eI-aJsOPQGmOoO6bzB892XyolWXhDqAYrA)
@@ -17,22 +32,13 @@ Donate to a college student who has no job and leeches off his parents.
 
 3. Enter your Chegg login credentials.
 
-4. Enter your e-ISBN of the book that you wish to open. To find your e-ISBN...
-      1. Goto https://ereader.chegg.com/
-      2. Click on the book that you want
-      3. The e-ISBN is located in the URL of the webpage
-          > Example: ht&#8203;tps://ereader.chegg.com/#/books/ ***e-ISBN*** /cfi/0!/4/2@100:0.00
+4. Enter your e-ISBN value (found in step 0) of the book that you wish to open.
           
 5. A preview screenshot of the book should pop-up. If you see the cover page of the selected book, then continue by entering the character 'Y'. If not, check the e-ISBN again and make sure that you manually set it to the first page as Chegg remembers where you last left off.
 
 6. Set the screenshot delay, in milliseconds (Recommended: '3000').
 
-7. Enter the last page of the book. To find the last page of the book...
-      1. Goto https://ereader.chegg.com/
-      2. Click on the book that you want
-      3. Scroll all the way to the last page of the book
-      4. The last page number is located in the URL of the webpage
-          > Example: ht&#8203;tps://ereader.chegg.com/#/books/123456789/cfi/ ***Last page of the book*** !/4/2@100:0.00
+7. Enter the last page value (found in step 0) of the book.
           
 8. Wait for all the pages to be printed and built into a PDF.
 

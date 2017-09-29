@@ -24,7 +24,11 @@ Donate to a college student who has no job and leeches off his parents.
           > Example: ht&#8203;tps://ereader.chegg.com/#/books/123456789/cfi/ ***Last page of the book*** !/4/2@100:0.00
       5. Write it down somewhere for later.
           
-1. Download
+1. Download:
+      * [Chegg E-book to PDF V1.0.1 for Windows 32-bit](https://mega.nz/#!cQZTTawD!eDybvAQo77LvpegHe10Kb_VYN0GBl1orLp7XRx5IzM8)
+      * [Chegg E-book to PDF V1.0.1 for Windows 64-bit](https://mega.nz/#!VMR3hTQD!1SRtSzBL7azvIaH5yT3OMkZDKgeEOay5YE91qVFWcJI)
+      
+      Previous Version:
       * [Chegg E-book to PDF V1.0.0 for Windows 32-bit](https://mega.nz/#!UFBVFTbR!bEJvxqprOqc1i33ra9YRkDP01cCzvcAiOai2hdYClew)
       * [Chegg E-book to PDF V1.0.0 for Windows 64-bit](https://mega.nz/#!dE4hERrA!lmboUR538eI-aJsOPQGmOoO6bzB892XyolWXhDqAYrA)
       

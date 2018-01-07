@@ -1,0 +1,6 @@
+This win32 executable is compiled from the 7th revision of
+jpeg2pdf source code from 12-Jan-2013 available at
+svn://svn.code.sf.net/p/jpeg2pdf/code.
+
+The home page of jpeg2pdf:
+http://sourceforge.net/projects/jpeg2pdf/

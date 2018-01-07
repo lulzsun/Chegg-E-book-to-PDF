@@ -1,0 +1,18 @@
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF rewritten.exe.config
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF rewritten.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF rewritten.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.Core.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.WinForms.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.WinForms.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.WinForms.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.Core.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.Core.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg_E_book_to_PDF_rewritten.Form1.resources
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg_E_book_to_PDF_rewritten.Properties.Resources.resources
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF rewritten.csproj.GenerateResource.Cache
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF rewritten.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF rewritten.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF rewritten.csprojResolveAssemblyReference.cache

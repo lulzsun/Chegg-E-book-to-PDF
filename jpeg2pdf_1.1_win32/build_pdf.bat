@@ -1,1 +1,0 @@
-jpeg2pdf -o scans.pdf -p auto -n portrait -z none -r height *.jpeg

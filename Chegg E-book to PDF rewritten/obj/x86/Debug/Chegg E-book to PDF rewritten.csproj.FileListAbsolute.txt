@@ -1,0 +1,21 @@
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\Chegg E-book to PDF rewritten.exe.config
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\Chegg E-book to PDF rewritten.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\Chegg E-book to PDF rewritten.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.OffScreen.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.WinForms.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.OffScreen.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.OffScreen.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x86\Debug\Chegg E-book to PDF rewritten.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x86\Debug\Chegg_E_book_to_PDF_rewritten.Form1.resources
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x86\Debug\Chegg_E_book_to_PDF_rewritten.Properties.Resources.resources
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x86\Debug\Chegg E-book to PDF rewritten.csproj.GenerateResource.Cache
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x86\Debug\Chegg E-book to PDF rewritten.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\obj\x86\Debug\Chegg E-book to PDF rewritten.pdb

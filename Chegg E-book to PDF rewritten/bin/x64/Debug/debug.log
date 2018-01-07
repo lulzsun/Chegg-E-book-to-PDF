@@ -1,0 +1,680 @@
+[0104/171822.171:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/171831.999:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.004:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.011:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.013:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.151:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.209:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.232:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.254:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.276:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.310:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.348:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.369:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.392:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.416:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.440:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.463:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.492:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.514:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/171832.538:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0104/172524.333:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/172640.344:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/172656.238:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/172706.917:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/173907.099:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174003.602:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174100.105:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174226.505:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174339.452:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174442.937:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174500.076:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174522.328:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174635.500:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174656.051:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174736.681:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/174911.235:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/175356.993:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/175716.779:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/180827.364:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/180910.728:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/181013.426:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/181228.264:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/181427.885:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/181507.088:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/181600.696:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/181734.061:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182024.775:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182052.803:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182122.501:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182226.995:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182401.241:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182432.874:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182630.090:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182702.424:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/182741.978:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183020.268:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183322.193:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183435.895:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183450.833:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183521.163:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183851.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/183942.478:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/184307.983:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/185219.022:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/185252.038:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/185608.742:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/185706.123:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190328.391:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190356.409:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190454.676:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190630.254:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190656.780:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190737.682:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/190913.388:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/191006.225:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/191929.741:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/191957.708:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.708:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.709:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.709:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.709:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.709:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.709:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/191957.709:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0104/192007.498:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/192058.006:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/192148.327:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/192247.822:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/192308.946:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/192634.722:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/193020.868:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/193414.779:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/193517.221:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/193529.594:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/193818.840:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/193940.561:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/194120.402:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/194152.746:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/194239.601:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/194459.607:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/194748.436:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195145.947:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195150.595:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195220.684:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195258.038:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195318.803:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195336.624:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/195448.444:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/200005.350:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202013.021:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202042.569:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202201.853:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202455.415:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202519.767:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202548.613:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202629.682:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202854.404:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/202957.440:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0104/203016.921:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203024.736:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0104/203027.347:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203041.593:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0104/203127.128:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203149.426:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0104/203225.174:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203350.672:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203455.893:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203549.030:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203707.648:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/203830.670:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/204239.532:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/204257.527:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/204511.318:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/204822.207:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/204934.244:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205019.443:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205047.160:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205423.071:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205523.744:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205736.832:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205910.774:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/205920.471:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/210021.466:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/210314.804:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/210450.745:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/210810.515:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/210908.256:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/212145.700:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/214912.615:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/214944.105:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/215213.777:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/215314.835:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/215343.580:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/215819.000:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/215851.641:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/224941.943:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/225313.085:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/225457.138:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/232325.143:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/232537.886:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/233240.278:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/233745.668:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/234543.863:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/234631.305:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0104/234914.024:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/002625.085:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/002836.447:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/003057.900:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/003814.183:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/004113.295:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/004324.508:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/004430.588:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/004643.980:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/005125.512:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/005222.970:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/005317.011:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/005505.573:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/005639.430:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/011307.183:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/011347.615:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/011501.893:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/011545.027:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0105/011545.028:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0105/012038.104:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012152.344:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012215.254:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012301.391:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012327.826:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012352.724:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012645.001:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012720.587:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/012751.189:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/013327.683:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/013356.313:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/014358.606:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/014635.768:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/015014.594:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/015137.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/015446.229:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/015539.149:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/015835.692:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/015924.648:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/020405.252:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/020522.280:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/020918.232:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/021428.616:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/024209.552:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/030211.226:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/030305.315:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/031058.047:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/031315.208:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/032600.481:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/033753.803:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/042353.134:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/042542.563:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/042652.480:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/042758.429:ERROR:gles2_cmd_decoder.cc(15315)] Context lost because SwapBuffers failed.
+[0105/042758.429:ERROR:gles2_cmd_decoder.cc(15684)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0105/042758.440:ERROR:gles2_cmd_decoder.cc(5254)] Error: 5 for Command kSwapBuffers
+[0105/042758.440:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/042758.440:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/042758.440:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/042758.440:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/042758.440:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/042758.440:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/042758.440:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15250)] Trying to call glDeleteVertexArraysOES() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15189)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15235)] Trying to call glDeleteTextures() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/042758.441:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/042758.441:ERROR:gl_surface_egl.cc(808)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/042758.441:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/042758.442:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/042758.442:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/042758.442:ERROR:gl_surface_egl.cc(1124)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/042907.756:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/042955.945:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/043052.087:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/043509.612:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/043727.138:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/043808.846:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/044035.180:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/044602.400:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/050831.096:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/052543.190:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/052547.724:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/052736.034:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/052904.396:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/052955.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/053619.031:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/053629.717:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/053818.380:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/053911.034:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/054126.092:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/054504.758:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/054649.193:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/054849.507:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/055328.268:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/055454.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/055516.321:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/055835.244:ERROR:gles2_cmd_decoder.cc(15315)] Context lost because SwapBuffers failed.
+[0105/055835.244:ERROR:gles2_cmd_decoder.cc(15684)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0105/055835.244:ERROR:gles2_cmd_decoder.cc(5254)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0105/055835.244:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/055835.244:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/055835.244:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/055835.244:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/055835.244:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/055835.244:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15250)] Trying to call glDeleteVertexArraysOES() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15189)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15235)] Trying to call glDeleteTextures() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/055835.244:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/055835.244:ERROR:gl_surface_egl.cc(808)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/055835.244:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/055835.245:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/055835.245:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/055835.246:ERROR:gl_surface_egl.cc(1124)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/055853.170:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/055853.238:ERROR:backend_impl.cc(2025)] Invalid cache (current) size
+[0105/060148.248:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/060219.759:ERROR:gles2_cmd_decoder.cc(15315)] Context lost because SwapBuffers failed.
+[0105/060219.759:ERROR:gles2_cmd_decoder.cc(15684)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0105/060219.759:ERROR:gles2_cmd_decoder.cc(5254)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0105/060219.759:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060219.759:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060219.759:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060219.759:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060219.759:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060219.760:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15250)] Trying to call glDeleteVertexArraysOES() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15189)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15235)] Trying to call glDeleteTextures() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060219.760:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060219.760:ERROR:gl_surface_egl.cc(808)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.760:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060219.761:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060219.761:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060219.762:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060219.762:ERROR:gl_surface_egl.cc(1124)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/060244.759:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/060531.123:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/060652.997:ERROR:gles2_cmd_decoder.cc(15315)] Context lost because SwapBuffers failed.
+[0105/060652.997:ERROR:gles2_cmd_decoder.cc(15684)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0105/060652.997:ERROR:gles2_cmd_decoder.cc(5254)] Error: 5 for Command kSwapBuffers
+[0105/060652.997:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060652.997:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060652.997:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060652.997:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060652.998:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/060652.998:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15250)] Trying to call glDeleteVertexArraysOES() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15189)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15235)] Trying to call glDeleteTextures() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/060652.998:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060652.998:ERROR:gl_surface_egl.cc(808)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/060652.998:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060652.999:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060652.999:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/060652.999:ERROR:gl_surface_egl.cc(1124)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/060719.196:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/060906.044:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/060920.238:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/061030.982:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/061628.005:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/062102.330:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/062229.185:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/062428.655:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/062722.780:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/062857.927:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/063153.341:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/063529.447:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/063700.697:ERROR:gles2_cmd_decoder.cc(15315)] Context lost because SwapBuffers failed.
+[0105/063700.697:ERROR:gles2_cmd_decoder.cc(15684)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0105/063700.697:ERROR:gles2_cmd_decoder.cc(5254)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0105/063700.697:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/063700.697:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/063700.697:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/063700.697:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/063700.697:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/063700.697:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15250)] Trying to call glDeleteVertexArraysOES() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15189)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15235)] Trying to call glDeleteTextures() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/063700.697:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/063700.697:ERROR:gl_surface_egl.cc(808)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/063700.697:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/063700.698:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/063700.699:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/063700.699:ERROR:gl_surface_egl.cc(1124)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/063855.230:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/064032.835:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/064336.926:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/064454.564:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/064839.895:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/064939.160:ERROR:gles2_cmd_decoder.cc(15315)] Context lost because SwapBuffers failed.
+[0105/064939.160:ERROR:gles2_cmd_decoder.cc(15684)] Onscreen context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[0105/064939.160:ERROR:gles2_cmd_decoder.cc(5254)] Error: 5 for Command kPostSubBufferCHROMIUM
+[0105/064939.160:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/064939.160:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/064939.160:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/064939.160:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/064939.160:ERROR:gpu_channel_manager.cc(228)] Exiting GPU process because some drivers cannot recover from problems.
+[0105/064939.160:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15250)] Trying to call glDeleteVertexArraysOES() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15168)] Trying to call glDeleteBuffersARB() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15189)] Trying to call glDeleteFramebuffersEXT() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15235)] Trying to call glDeleteTextures() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15200)] Trying to call glDeleteProgram() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15224)] Trying to call glDeleteShader() without current GL context
+[0105/064939.160:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/064939.160:ERROR:gl_surface_egl.cc(808)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.160:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_bindings_autogen_gl.cc(15229)] Trying to call glDeleteSync() without current GL context
+[0105/064939.161:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/064939.161:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/064939.161:ERROR:gl_context_egl.cc(128)] eglDestroyContext failed with error EGL_CONTEXT_LOST
+[0105/064939.161:ERROR:gl_surface_egl.cc(1124)] eglDestroySurface failed with error EGL_CONTEXT_LOST
+[0105/064951.752:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/065135.455:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/065327.612:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/065517.810:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/065619.190:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072101.400:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072117.283:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072133.747:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072205.580:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072316.294:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072324.667:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0105/072341.572:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072351.405:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0105/072405.798:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072430.293:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072447.871:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0105/072449.784:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072459.732:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0105/072522.687:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072544.018:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072554.126:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0105/072633.999:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072645.379:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0105/072655.084:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072723.022:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072741.271:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072806.686:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072834.063:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/072938.437:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/073311.926:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/073324.086:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/073816.140:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/074140.399:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/074820.176:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/075041.546:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/075133.774:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/080548.083:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/080604.295:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/080718.843:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/080718.931:ERROR:backend_impl.cc(2025)] Invalid cache (current) size
+[0105/081943.837:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/084809.751:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/084939.344:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085059.961:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085109.728:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085120.054:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085303.067:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085456.749:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085739.855:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085847.681:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/085940.280:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/090237.533:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/090441.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/090520.280:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/090552.065:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/090617.778:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/090947.883:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/091034.404:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/145853.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/151942.698:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/152123.963:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/152316.548:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/152336.794:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/152558.241:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/153236.085:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/153406.460:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/153506.139:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/153527.266:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/160034.777:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/160319.625:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/162132.882:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/162245.029:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/162632.054:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/163528.082:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/165826.691:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173152.014:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173234.285:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173429.351:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173502.519:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173622.243:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173640.641:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173726.354:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173733.484:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173751.246:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173752.479:ERROR:broker_win.cc(138)] Error sending sync broker message
+[0105/173811.968:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173830.182:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/173917.405:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/174008.572:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/174052.861:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/174153.723:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/174232.240:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/175148.107:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/175206.309:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/175316.130:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/175342.930:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/184512.327:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/190214.964:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/194058.493:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/194739.508:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/194843.600:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/200750.734:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/201229.777:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0105/203729.679:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain

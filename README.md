@@ -28,4 +28,7 @@ Find this program useful? Buy me a coffee.
 # Bugs / Issues
 * Download halts/freezes. If this happens, delays might need to be increased in the settings.
 * Program sometimes does not close out the process completely, which eats up the memory. If this happens, end the process with task manager.
+* No sign of progress? Your book might possibly not be compatible. Certain Chegg eBooks use a different format that will not work with the current method used to snapshot the pages. Here are some signs that a book might not be compatible:
+     1. Page heights vary from page to page.
+     2. The next button is not located horizontally, but instead vertically.
 * Having problems that aren't listed here? [Try a previous version.](https://github.com/lulzsun/Chegg-E-book-to-PDF/tree/1.0.1)

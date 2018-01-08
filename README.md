@@ -55,3 +55,6 @@ Donate to a college student who has no job and leeches off his parents.
      
      i. [VC++ 2012/2013 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=40784) is required in order to run CefSharp on non developer machines. Forgot to include the .dlls that are required; will do that next version.
 * Sometimes the preview does not remove Chegg's ereader browser elements, if you notice this, you can restart and try again to see if that fixes it.
+* No sign of progress? Printing the same page over and over again? Your book might possibly not be compatible. Certain Chegg eBooks use a different format that will not work with the current method used to snapshot the pages. Here are some signs that a book might not be compatible:
+     1. Page heights vary from page to page.
+     2. The next button is not located horizontally, but instead vertically.

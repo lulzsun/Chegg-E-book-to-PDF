@@ -26,6 +26,7 @@ Find this program useful? Buy me a coffee.
 9. After program claims its complete, the PDF will be located in the directory named after the e-ISBN.
 
 # Bugs / Issues
+* Repeating books, even though you have different books. This is an easy fix but I don't have time for it. Use older version.
 * Download halts/freezes. If this happens, delays might need to be increased in the settings.
 * Program sometimes does not close out the process completely, which eats up the memory. If this happens, end the process with task manager.
 * No sign of progress? Your book might possibly not be compatible. Certain Chegg eBooks use a different format that will not work with the current method used to snapshot the pages. Here are some signs that a book might not be compatible:

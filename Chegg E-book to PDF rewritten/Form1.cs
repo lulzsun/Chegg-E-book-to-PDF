@@ -179,7 +179,7 @@ namespace Chegg_E_book_to_PDF
                     var arr = [], l = document.getElementsByTagName('a');
                     for(var i=0; i<l.length; i++) {
                         if(l[i].href.indexOf('ereader.chegg.com/#/books/') > -1) {
-                            arr.push(l[i].href + '$$$' + l[i].getElementsByTagName('img')[0].src + l[i].innerText.split('\n').join('$$$'));
+                            arr.push(l[i].href + '$$$' + l[i].getElementsByTagName('img')[0].src + l[i].innerText.split('\n').join('$$$') + '@@@');
                         }
                     }
                     return arr.toString();
@@ -194,7 +194,8 @@ namespace Chegg_E_book_to_PDF
                     if (response.Success && response.Result != null && (string)response.Result != "")
                     {
                         this.Invoke((MethodInvoker)delegate { this.booksListView.Items.Clear(); });
-                        string[] books = response.Result.ToString().Split(',');
+
+                        string[] books = response.Result.ToString().Split(new[] { "@@@," }, StringSplitOptions.None);
 
                         ImageList images = new ImageList();
                         images.ImageSize = new Size(100, 122);
@@ -202,7 +203,7 @@ namespace Chegg_E_book_to_PDF
 
                         foreach (string book in books)
                         {
-                            string[] bookDetails = response.Result.ToString().Split(new[] { "$$$" }, StringSplitOptions.None);
+                            string[] bookDetails = book.Split(new[] { "$$$" }, StringSplitOptions.None);
 
                             WriteToLogs(book);
 

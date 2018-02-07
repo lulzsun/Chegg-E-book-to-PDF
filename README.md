@@ -25,6 +25,8 @@ Find this program useful? Buy me a coffee.
 
 9. After program claims its complete, the PDF will be located in the directory named after the e-ISBN.
 
+10. Please read below if you experience problems.
+
 # Bugs / Issues
 * Download halts/freezes. If this happens, delays might need to be increased in the settings.
 * Program sometimes does not close out the process completely, which eats up the memory. If this happens, end the process with task manager.

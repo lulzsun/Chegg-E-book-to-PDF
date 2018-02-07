@@ -17,15 +17,15 @@ Find this program useful? Buy me a coffee.
 
 3. Enter your Chegg login credentials, then press Login.
 
-5. Books should be loaded in now. If not, press Fetch Books, or check your login credentials and Login again.
+4. Books should be loaded in now. If not, press Fetch Books, or check your login credentials and Login again.
 
-6. Click on a book and press Download Selected Book.
+5. Click on a book and press Download Selected Book.
 
-7. Wait for all the pages to be printed and built into a PDF.
+6. Wait for all the pages to be printed and built into a PDF.
 
-9. After program claims its complete, the PDF will be located in the directory named after the e-ISBN.
+7. After program claims its complete, the PDF will be located in the directory named after the e-ISBN.
 
-10. Please read below if you experience problems.
+8. Please read below if you experience problems.
 
 # Bugs / Issues
 * Download halts/freezes. If this happens, delays might need to be increased in the settings.

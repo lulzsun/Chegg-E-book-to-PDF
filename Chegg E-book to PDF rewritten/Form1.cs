@@ -264,8 +264,15 @@ namespace Chegg_E_book_to_PDF
                     {
                         //Gets the URL of the book page
                         string downloadUrl = response.Result.ToString();
-                        downloadUrl = downloadUrl.Split(new[] { "encrypted/" }, StringSplitOptions.None)[0] + "encrypted/" + (int.Parse(downloadUrl.Substring(downloadUrl.IndexOf("/encrypted/")).Replace("/encrypted/", "")) * qualityMultiplier);
-
+                        int imageWidth = 2000;
+                        try{
+                            imageWidth = int.Parse(downloadUrl.Substring(downloadUrl.IndexOf("/encrypted/")).Replace("/encrypted/", ""));
+                        } catch(FormatException e) { // if the above isn't parsable to int (ie it's something like "undefined")
+                            imageWidth = 2000; // I feel like this should be an entry under the "qualityMultiplier". That or just keep it a standard number for all of the sheets. Is it a space-saving measure?
+                        } finally {
+                            downloadUrl = downloadUrl.Split(new[] { "encrypted/" }, StringSplitOptions.None)[0] + "encrypted/" + (imageWidth * qualityMultiplier);
+                        }
+                        
                         WriteToLogs("Downloading img src: " + downloadUrl);
 
                         //Setup path to download

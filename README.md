@@ -1,4 +1,4 @@
-<font color="red">NOTICE: Chegg has implemented a Captcha for their ereader. The current version is now unsupported for the time being.</font>
+<span> NOTICE: Chegg has implemented a Captcha for their ereader. The current version is now unsupported for the time being.</span>
 
 # Chegg E-book to PDF
 Designed to simply download an e-book off of Chegg and convert it into a PDF.

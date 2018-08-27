@@ -1,5 +1,7 @@
+<font color="red">NOTICE: Chegg has implemented a Captcha for their ereader. The current version is now unsupported for the time being.</font>
+
 # Chegg E-book to PDF
-This program was created by Jimmy Quach (lulzsun), designed to simply download an e-book off of Chegg and convert it into a PDF.
+Designed to simply download an e-book off of Chegg and convert it into a PDF.
 
 [![Winforms Application Screenshot](http://i.imgur.com/6KJIAj5.png)](http://i.imgur.com/6KJIAj5.png)
 

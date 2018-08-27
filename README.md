@@ -12,8 +12,8 @@ Find this program useful? Buy me a coffee.
 
 # How to Use (For dummies)  
 1. Download:
-      * [Chegg E-book to PDF V2.0.1 for Windows 32-bit](https://github.com/lulzsun/Chegg-E-book-to-PDF/releases/download/2.0.1/Chegg.E-book.to.PDF.V2.0.1.x86.zip)
-      * [Chegg E-book to PDF V2.0.1 for Windows 64-bit](https://github.com/lulzsun/Chegg-E-book-to-PDF/releases/download/2.0.1/Chegg.E-book.to.PDF.V2.0.1.x64.zip)
+      * [Chegg E-book to PDF V2.0.2 for Windows 32-bit](https://github.com/lulzsun/Chegg-E-book-to-PDF/releases/download/2.0.2/Chegg.E-book.to.PDF.V2.0.2.x86.zip)
+      * [Chegg E-book to PDF V2.0.2 for Windows 64-bit](https://github.com/lulzsun/Chegg-E-book-to-PDF/releases/download/2.0.2/Chegg.E-book.to.PDF.V2.0.2.x64.zip)
       
 2. Open up Chegg E-book to PDF.exe
 

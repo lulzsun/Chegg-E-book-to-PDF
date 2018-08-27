@@ -1,2 +1,20 @@
 C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF rewritten\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF.exe.config
 C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\Chegg E-book to PDF\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF.exe.config
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF.exe.config
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF.csprojResolveAssemblyReference.cache
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg_E_book_to_PDF.Form1.resources
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg_E_book_to_PDF.Properties.Resources.resources
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF.csproj.GenerateResource.Cache
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF.exe
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\Chegg E-book to PDF.pdb
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.Core.dll
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.dll
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.WinForms.dll
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.WinForms.pdb
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.WinForms.xml
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.pdb
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.xml
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.Core.pdb
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\bin\x64\Release\CefSharp.Core.xml
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF.exe
+C:\Users\QUACHROCKET\Documents\GitHub\Chegg-E-book-to-PDF\Chegg E-book to PDF rewritten\obj\x64\Release\Chegg E-book to PDF.pdb

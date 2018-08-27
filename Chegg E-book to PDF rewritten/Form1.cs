@@ -117,7 +117,7 @@ namespace Chegg_E_book_to_PDF
                     else if (browser.Address.ToString().Contains("https://ereader.chegg.com/#/books/") && browser.Address.ToString().Contains("cfi/" + jobCurrBookPage + "!"))
                     {
                         browser.LoadingStateChanged -= BrowserLoadingStateChanged;
-                        if (jobCurrBookPage == 0)
+                        if (jobCurrBookPage == int.Parse(userStartPageTextBox.Text))
                         {
                             WriteToLogs("Successfully loaded book.");
                             WriteToLogs("Preparing book for printing...");
@@ -125,7 +125,7 @@ namespace Chegg_E_book_to_PDF
 
                         await Task.Delay(delay[0]);
                         browser.LoadingStateChanged += BrowserLoadingStateChanged;
-                        if (jobCurrBookPage == 1)
+                        if (jobCurrBookPage == int.Parse(userStartPageTextBox.Text)+1)
                         {
                             await Task.Delay(delay[1]);
                             //Calculates the last page of book
@@ -483,6 +483,7 @@ namespace Chegg_E_book_to_PDF
             delay[1] = 3000;
             hangChecker.Interval = 30000;
             qualityMultiplier = 2.0;
+            userStartPageTextBox.Text = "0";
         }
 
         private void exitSettingsButton_Click(object sender, EventArgs e)
@@ -502,6 +503,24 @@ namespace Chegg_E_book_to_PDF
             downloadButton.Enabled = false;
 
             GetBooks();
+        }
+
+        private void forcePDFbutton_Click(object sender, EventArgs e)
+        {
+            if (forcePdfISBNtextbox.Text != "") {
+                DialogResult dialogResult = MessageBox.Show("Are you sure you want to convert all downloaded pages in the directory: ''" + forcePdfISBNtextbox.Text + "'' into a PDF?\r\nThis will halt any current operation in progress.", "Force PDF Confirmation", MessageBoxButtons.YesNo);
+                if (dialogResult == DialogResult.Yes)
+                {
+                    jobAliveCheck = -1;
+                    jobBookEISBN = forcePdfISBNtextbox.Text;
+                    WriteToLogs("User has forced a creation of a PDF on ISBN: " + jobBookEISBN);
+                    BuildPDF();
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter the ISBN you wish to force a conversion of a pdf. (DIRECTORY MUST EXIST)", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void hangChecker_Tick(object sender, EventArgs e)
@@ -564,7 +583,7 @@ namespace Chegg_E_book_to_PDF
             {
                 jobStartTime = DateTime.Now;
 
-                jobCurrBookPage = 0;
+                jobCurrBookPage = int.Parse(userStartPageTextBox.Text);
 
                 jobBookTitle = bookDetails[0];
                 jobBookAuthor = bookDetails[1];

@@ -63,12 +63,19 @@
             this.settingsButton = new System.Windows.Forms.Button();
             this.coverPreview = new System.Windows.Forms.PictureBox();
             this.hangChecker = new System.Windows.Forms.Timer(this.components);
+            this.label7 = new System.Windows.Forms.Label();
+            this.userStartPageTextBox = new System.Windows.Forms.TextBox();
+            this.forcePDFbutton = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.forcePdfISBNtextbox = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.mainTabPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.loadingIcon)).BeginInit();
             this.logTabPage.SuspendLayout();
             this.settingsTabPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.coverPreview)).BeginInit();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -163,6 +170,9 @@
             // 
             // settingsTabPage
             // 
+            this.settingsTabPage.Controls.Add(this.groupBox1);
+            this.settingsTabPage.Controls.Add(this.userStartPageTextBox);
+            this.settingsTabPage.Controls.Add(this.label7);
             this.settingsTabPage.Controls.Add(this.label6);
             this.settingsTabPage.Controls.Add(this.aliveCheckTextbox);
             this.settingsTabPage.Controls.Add(this.exitSettingsButton);
@@ -436,6 +446,62 @@
             this.hangChecker.Interval = 30000;
             this.hangChecker.Tick += new System.EventHandler(this.hangChecker_Tick);
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(157, 4);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(57, 13);
+            this.label7.TabIndex = 13;
+            this.label7.Text = "Start Page";
+            // 
+            // userStartPageTextBox
+            // 
+            this.userStartPageTextBox.Location = new System.Drawing.Point(160, 20);
+            this.userStartPageTextBox.Name = "userStartPageTextBox";
+            this.userStartPageTextBox.Size = new System.Drawing.Size(100, 20);
+            this.userStartPageTextBox.TabIndex = 14;
+            this.userStartPageTextBox.Text = "0";
+            // 
+            // forcePDFbutton
+            // 
+            this.forcePDFbutton.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.forcePDFbutton.Location = new System.Drawing.Point(6, 74);
+            this.forcePDFbutton.Name = "forcePDFbutton";
+            this.forcePDFbutton.Size = new System.Drawing.Size(100, 23);
+            this.forcePDFbutton.TabIndex = 15;
+            this.forcePDFbutton.Text = "Force PDF";
+            this.forcePDFbutton.UseVisualStyleBackColor = true;
+            this.forcePDFbutton.Click += new System.EventHandler(this.forcePDFbutton_Click);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.label8);
+            this.groupBox1.Controls.Add(this.forcePdfISBNtextbox);
+            this.groupBox1.Controls.Add(this.forcePDFbutton);
+            this.groupBox1.Location = new System.Drawing.Point(160, 53);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(112, 110);
+            this.groupBox1.TabIndex = 16;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Force PDF";
+            // 
+            // forcePdfISBNtextbox
+            // 
+            this.forcePdfISBNtextbox.Location = new System.Drawing.Point(6, 48);
+            this.forcePdfISBNtextbox.Name = "forcePdfISBNtextbox";
+            this.forcePdfISBNtextbox.Size = new System.Drawing.Size(100, 20);
+            this.forcePdfISBNtextbox.TabIndex = 17;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(6, 32);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(32, 13);
+            this.label8.TabIndex = 17;
+            this.label8.Text = "ISBN";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -456,7 +522,7 @@
             this.Controls.Add(this.settingsButton);
             this.Controls.Add(this.debugBrowser);
             this.Name = "Form1";
-            this.Text = "Chegg E-book to PDF (Version 2.0.1) by Jimmy Quach";
+            this.Text = "Chegg E-book to PDF (Version 2.0.2) by Jimmy Quach";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
@@ -467,6 +533,8 @@
             this.settingsTabPage.ResumeLayout(false);
             this.settingsTabPage.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.coverPreview)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -508,6 +576,12 @@
         private System.Windows.Forms.Timer hangChecker;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox aliveCheckTextbox;
+        private System.Windows.Forms.TextBox userStartPageTextBox;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button forcePDFbutton;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox forcePdfISBNtextbox;
     }
 }
 

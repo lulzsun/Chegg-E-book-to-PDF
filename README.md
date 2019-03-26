@@ -1,4 +1,4 @@
-<span> NOTICE: This program no longer works as intended. Please do not ask me to fix it, I am not supporting this anymore. This is open source for a reason, so feel free to fix it yourself.</span>
+<span> NOTICE: This program is no longer working as intended. Please do not ask me to fix it, I am not supporting this anymore. This is open source for a reason, so feel free to fix it yourself.</span>
 
 # Chegg E-book to PDF
 Designed to simply download an e-book off of Chegg and convert it into a PDF.

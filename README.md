@@ -1,4 +1,4 @@
-<span> NOTICE: Chegg has implemented a Captcha for their ereader. The current version is now unsupported for the time being.</span>
+<span> NOTICE: This program no longer works as intended. Please do not ask me to fix it, I am not supporting this anymore. This is open source for a reason, so feel free to fix it yourself.</span>
 
 # Chegg E-book to PDF
 Designed to simply download an e-book off of Chegg and convert it into a PDF.
